@@ -1,0 +1,4 @@
+qtaskpaper
+==========
+
+multiplatform task manager
